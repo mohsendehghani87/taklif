@@ -1,0 +1,19 @@
+.product{
+  border-radius: 5px;
+  border: 1px solid #b7b1b1; 
+  width: 200px;
+  padding: 5px;
+}
+.picture{
+    border-radius: 5px;
+}
+.info{
+    color: aquamarine;
+}
+.infoo{
+    color: rgb(127, 225, 255);
+}
+.infooo{
+    color: rgb(127, 142, 255);
+}
+
